@@ -1,4 +1,4 @@
-### Arjun Chatbot
+### ALIA Chatbot
 
 AI query-resolver chatbot for the HRMS desk
 
